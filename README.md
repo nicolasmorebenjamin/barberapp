@@ -1,9 +1,9 @@
-# Dark Level Barber Studio
+# Dark Level Barbería
 
-Sitio estático de una página para GitHub Pages. Incluye accesos a barbería, tienda y academia, más el perfil de Instagram de Dark Level.
+Sitio estático para GitHub Pages. Presenta la barbería, ubicación, horarios indicados en el perfil de Instagram, enlaces al perfil y secciones informativas para tienda y cursos. El logo se encuentra integrado dentro de `index.html`.
 
 ## Publicar
 
-En GitHub, abrí **Settings → Pages** y seleccioná la rama `main` y la carpeta `/ (root)`. Guardá los cambios; GitHub Pages publicará `index.html`.
+Configurá GitHub Pages en **Settings → Pages**, con la rama `main` y la carpeta raíz (`/`).
 
-El sitio es una portada visual. Los turnos, catálogo, cursos y pagos todavía no están conectados a sistemas externos.
+Los turnos, tienda y cursos se consultan actualmente por Instagram; esta versión no incluye agenda automática, catálogo con stock ni pagos.
